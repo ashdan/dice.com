@@ -46,7 +46,7 @@ function request(request){
       Utilities.sleep(300)
     }
   }catch{
-    console.log('Erorr')
+    console.log('Error')
   }
 
 }
